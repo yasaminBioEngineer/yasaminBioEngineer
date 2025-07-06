@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dr. Sara Azimi</h1>
+<h1 align="center">Hi there 👋, I'm Dr. yasamin baghersad</h1>
 
 <p align="center">
   🎓 PhD in Biomedical Engineering (Bioelectric) <br>
