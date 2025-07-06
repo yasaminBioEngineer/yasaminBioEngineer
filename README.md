@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Dr. Sara Azimi</h1>
 
-<!--
-**yasaminBioEngineer/yasaminBioEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 PhD in Biomedical Engineering (Bioelectric) <br>
+  🧠 EEG Signal Processing | Machine Learning | Data Analysis <br>
+  💻 Python | MATLAB | scikit-learn | NumPy | SciPy <br>
+  📝 Scientific Author | Freelancer | Researcher <br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me
+
+I am a biomedical engineer specializing in **biomedical signal processing** and **machine learning applications** in healthcare. My research focuses on analyzing EEG and ECG signals using AI-based methods for feature extraction, denoising, and classification.
+
+### 🛠️ Skills
+
+- **Programming:** Python, MATLAB  
+- **Signal Processing:** EEG, ECG, filtering, feature extraction  
+- **ML Algorithms:** SVM, KNN, LDA, CNN  
+- **Scientific Writing:** 2 peer-reviewed publications  
+- **Tools:** Git, Jupyter, Photoshop (for scientific visuals)
+
+### 🚀 Goals
+
+- 🔍 Collaborate on remote projects in health tech and research  
+- 📈 Expand my freelance portfolio in signal & data analysis  
+- 🌍 Help clients turn complex data into meaningful insights
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: yasamin137272@gmail.com  
+- 💼 LinkedIn: [[linkedin.com/in/sara-azimi](https://linkedin.com/in/yourname)](https://www.linkedin.com/in/yasamin-bsghersad/)  
+- 🌐 Portfolio: iranbmeclub.ir
+
+---
+
+<p align="center">Thanks for visiting my profile 💙</p>
