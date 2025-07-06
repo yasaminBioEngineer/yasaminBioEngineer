@@ -32,7 +32,7 @@ I am a biomedical engineer specializing in **biomedical signal processing** and 
 ### 📫 Contact Me
 
 - 📧 Email: yasamin137272@gmail.com  
-- 💼 LinkedIn: [[linkedin.com/in/sara-azimi](https://linkedin.com/in/yourname)](https://www.linkedin.com/in/yasamin-bsghersad/)  
+- 💼 LinkedIn:(https://www.linkedin.com/in/yasamin-bsghersad/)  
 - 🌐 Portfolio: iranbmeclub.ir
 
 ---
